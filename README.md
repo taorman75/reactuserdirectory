@@ -12,14 +12,12 @@ This application, bootstrapped from CREATE REACT APP (https://github.com/faceboo
 
 ## Installation
 
-This application is deployed on GitHub pages and does require any special tools to be downloaded by the user.
+This application is deployed on GitHub pages and does not require any special tools to be downloaded by the user.
 
 
 ## Usage
 
-Upon running the application -- replace screenshots
-
-![app menu screen shot](https://github.com/taorman75/Employee_Management_System/blob/master/Assets/MainMenu.jpg)
+Upon running the application 
 
 
 
