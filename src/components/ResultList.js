@@ -4,6 +4,7 @@ import EmployeeCard from "./EmployeeCard"
 
 function ResultList(props) {
   return (
+     
     <table className="table">
         <thead>
             <tr>

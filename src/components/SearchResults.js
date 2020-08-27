@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 import API from "../utils/api";
+import EmployeeCard from "./EmployeeCard";
 // import ResultList from "./ResultList";
 
 export default class SearchResults extends Component {
@@ -46,6 +47,11 @@ export default class SearchResults extends Component {
     this.searchEmployees(this.state.search);
   };
 
+render() {
+  return (<div>
+    <h1>Hi {this.state.result[0].firstName}</h1>
+  </div>)
+}
+
  }
 
-// export default SearchResultContainer;
